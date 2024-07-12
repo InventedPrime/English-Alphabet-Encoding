@@ -1,2 +1,3 @@
 # English-Alphabet-Encoding
-Creating an encoding system using the alphabet
+Creating an encoding system using the English alphabet
+>[!] Early-demo
